@@ -7,5 +7,7 @@ cask "pdflaser" do
   desc "PDF slide presenter with laser pointer and pen markup"
   homepage "https://github.com/chkwon/homebrew-tap"
 
+  depends_on macos: ">= :sonoma"
+
   app "PDF Laser.app"
 end
