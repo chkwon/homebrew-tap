@@ -1,6 +1,6 @@
 cask "pdflaser" do
-  version "0.1"
-  sha256 "b9f4ff614cb8de4254c0ea90eef35a4a04c9efc001ebd0853fcad9ceceefc138"
+  version "0.1.1"
+  sha256 "8b9aa9731781300fc1ed740185e369af2d6cea96cd2b7255cd7da2c6f2b773bc"
 
   url "https://github.com/chkwon/homebrew-tap/releases/download/pdflaser-v#{version}/PDF-Laser-v#{version}-macOS-universal.zip"
   name "PDF Laser"
