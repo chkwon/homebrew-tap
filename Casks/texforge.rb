@@ -1,6 +1,6 @@
 cask "texforge" do
   version "1.1.7"
-  sha256 "4f1d1a1d7004109d468d5d511d762a232b851ee2c5f7bcf5782ba948528d8b7e"
+  sha256 "c172f73592ad851ee0ecae9d8d6e32dfb80608c8ea4996e0010bad100d184edd"
 
   url "https://github.com/chkwon/TeXForge/releases/download/v#{version}/TeXForge-v#{version}-arm64.zip"
   name "TeXForge"
